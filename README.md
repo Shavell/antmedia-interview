@@ -31,3 +31,8 @@ Therefore only converting predefined (on github) video.
 - javacpp:1.5.8
 - javacpp-presets:ffmpeg:5.1.2
 - Lombok:1.18.24
+
+### Sources
+- https://filesamples.com/formats/flv
+- https://github.com/bytedeco/javacpp-presets/tree/master/ffmpeg
+- http://bytedeco.org/javacpp-presets/ffmpeg/apidocs/org/bytedeco/ffmpeg/ffmpeg.html
