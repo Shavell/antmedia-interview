@@ -29,7 +29,7 @@ Therefore only converting predefined (on github) video.
 ### Used Dependencies
 - JDK 11
 - javacpp:1.5.8
-- javacpp-presets:ffmpeg:5.1.2
+- javacpp-presets:ffmpeg:5.1.2 (support all architecture (macosx,windows,linux,android;x86,arm,etc))
 - Lombok:1.18.24
 
 ### Sources
